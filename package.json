@@ -8,11 +8,11 @@
   },
   "vide": {
     "type": "mode",
-    "modePath": "./{{modeName}}.js"
+    "modePath": "./{{keyword}}.js"
   },
   "keywords": [
     "vide-plugin",
-    "{{modeName}}"
+    "{{keyword}}"
   ],
   "main": "lib/index.js",
   "devDependencies": {
